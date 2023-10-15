@@ -46,11 +46,7 @@ const styles = StyleSheet.create({
   },
   navButton: {
     backgroundColor: "#ddd",
-    minWidth: 75,
-    alignItems: 'center',
     padding: 12,
     borderRadius: 20,
-    marginLeft: 10,
-    marginRight: 10
   },
 });

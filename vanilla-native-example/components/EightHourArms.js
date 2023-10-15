@@ -7,7 +7,8 @@ export default function EightHourArms(props) {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>8 hour arm workout</Text>
-      <Text style={styles.description}>It's basically an eight hour arm workout</Text>
+      <Text style={styles.description}>It's basically an eight hour arm workout, and it's made up of 16 mini-workouts
+      every half an hour for 8 hours straight</Text>
       <ExerciseCard
         name="Skull Crushers"
         sets={32}
